@@ -1,5 +1,15 @@
-This is a password cli tool. 
+Cross-platform GOLANG based password manager
 
-It is still in development
+It stores passwords in buntdb located at your home directory
 
-it uses buntdb to store passwords
+Supported commands:
+
+- add to add password
+- list to list all records
+- delete to delete a record
+- exit to exit a programm
+
+Supported OS:
+
+- Windows
+- Linux
