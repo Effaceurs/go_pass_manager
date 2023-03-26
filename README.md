@@ -4,7 +4,7 @@ It stores passwords in buntdb located at your home directory
 
 Supported commands:
 
-- **add** - to add password
+- **add** - to add a record
 - **list** - to list all records
 - **delete** - to delete a record
 - **exit** - to exit a programm
